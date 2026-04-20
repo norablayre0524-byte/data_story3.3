@@ -4,7 +4,7 @@
 
 ## *Device Manufacturing*
 
-![](hightech-smartphone-manufacturing-assembly-line-with-advanced-robotic-automation_94064-20172.avif){width=50%}
+![Source: https://www.freepik.com/photos/manufacturing-process](hightech-smartphone-manufacturing-assembly-line-with-advanced-robotic-automation_94064-20172.avif){width=50%}
 
 &nbsp;&nbsp;&nbsp;&nbsp; The use of smartphones and the internet themselves are costly to the environment, but the resources to produce and maintain the function of these devices further this toll. Electricity grids are used to power and cool at-home devices, and these grids generate energy mainly through fossil fuels like coal and natural gas (Climate Impact Partners, 2021). The minerals needed to build these devices are frequently obtained through high emissions practices. Such minerals are chiefly found in regions in which workers are exploited, raising ethical concerns for technology manufacturing, as well.
  
@@ -14,7 +14,7 @@
 
 ## *The Effects of AI*
 
-![](1757925403245.png){width=50%}
+![Source: https://www.linkedin.com/pulse/environmental-impact-ai-data-centers-balancing-technology-sorte-z4fyf](1757925403245.png){width=50%}
 
 &nbsp;&nbsp;&nbsp;&nbsp; Climate change impacts are not constrained to the devices and apps themselves. They have seeped into the new developments of AI. Training large AI models requires a significant amount of carbon and energy, typically from non-renewable sources. Once these models are released to the public, every prompt has a small carbon footprint (Climate Impact Partners, 2025). However, the footprint is not so small considering the amount of users and prompts for AI on a day-to-day basis. The same principle applies for the water needed to produce an AI response. 
 

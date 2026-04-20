@@ -4,7 +4,7 @@
 
 ## *Internet Addiction*
 
-![](dopamine-reward-loop.png){width=50%}
+![Source: https://www.lemonade.com/blog/psychology-behind-phone-addiction/](dopamine-reward-loop.png){width=50%}
 
 &nbsp;&nbsp;&nbsp;&nbsp; Increasing use of recreational technology like smartphones, at-home computers, and televisions has nurtured the presence of social media. Social media can be a place for self-expression; however, it harbors space for negative topics which is especially harmful for young, impressionable minds. 
 
@@ -14,7 +14,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp; Overreliance is not strictly limited to social media but bleeds into other sectors of the internet, as well. Using the internet can provide a degree of ease to complete tasks that would require more effort manually. Humans are attracted to this effortlessness as our brain seeks out less work-intensive tasks as this was a biological adaptation to survive in prehistoric times. Although these behaviors can be acceptable to an extent for efficiency, using the internet for simple tasks can hurt our cognitive abilities. The brain can be compared to a muscle, and like a muscle, when it is worked less, it becomes weaker and loses some of its functionality. Neuroimaging has shown the area of the brain responsible for decision-making and cognitive control is changed with excessive internet use (Morgan & Doe, 2025). This part of the brain is also responsible for our memories that contain irreplaceable value in shaping who we are.
 
-![](symptoms-high-cortisol-levels-shown-icons-irritability-fatigue-anxiety-doodle-style-diagram-381099262.webp){width=50%}
+![Source: https://www.dreamstime.com/symptoms-high-cortisol-levels-shown-icons-irritability-fatigue-anxiety-doodle-style-diagram-image381099262](symptoms-high-cortisol-levels-shown-icons-irritability-fatigue-anxiety-doodle-style-diagram-381099262.webp){width=50%}
 
 &nbsp;&nbsp;&nbsp;&nbsp; Moreover, excessive internet use can lead to less sleep as eyes are fixed on entertaining screens rather than being shut. Low levels of sleep are associated with all sorts of physical and mental challenges. As time asleep is lost, cortisol levels are raised. Cortisol is commonly known as the "stress hormone", and in high levels, it can disrupt immune functions, metabolism, and mental performance. After little sleep, a person often experiences brain "fog" and inability to focus. 
 
@@ -22,7 +22,7 @@
 
 ## *AI and Cognitive Decline*
 
-![](OIP.webp){width=50%}
+![Source: https://debuglies.com/2023/05/14/the-link-between-declining-cognitive-function-and-humans-use-of-artificial-intelligence-ai-vs-human-what-does-the-future-hold/](OIP.webp){width=50%}
 
 &nbsp;&nbsp;&nbsp;&nbsp; The decline of brain function is only regressing with the emergence of Artificial Intelligence (AI). A study conducted by MIT had a group of students complete a writing prompt. Some had access to AI, some had access to google search, and the others had their brain. The group using AI demonstrated little memory of what they wrote compared to the other groups when post study interviews were conducted (Hulscher, 2025). Additionally, the AI group’s neural activity was low even after the AI use was stopped, and they "showed a consistent decline in engagement, performance, and self-reported satisfaction." Therefore, frequent use of AI reinforces the brain to seek activities with lower neurological stimulation. The long-term outcomes of such neurological behavior cannot be entirely understood yet as AI is still in its infancy, but many researchers predict negative effects due to the "cognitive offloading" associated with AI use (Rossi et al., 2026).
 
