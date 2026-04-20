@@ -1,5 +1,6 @@
 # Internet and the Identity
  Our daily lives are bombarded by constant use of technology, the internet, and, at times, AI. The revolution of technology has been essential from expanding our knowledge of the world around us to improving the efficiency of daily tasks. Although technology is an integral part of our lives, the effects of the internet and AI use on health and the envionrment must be acknowledged. Understanding these effects and addressing them could be key to building a healthier and more sustainable future that abides by the UN's sustainable development goals (SDGs). These goals were created as we are in an important point in history in which we create a better future for humanity or we destroy our world. Specifically, this issues relates to SDG #3 (Good Health and Well-Being), #12 (Responsible Consumption and Production), and #13 (Climate Action). Internet use is causing people to lose their own identities and relationships which is putting a strain on our unified gloabl identity, ultimately spurring division. To combat this, everyone can make changes to their internet usage to benefit not only themselves but our communities, as well.
 
-Access the story here:
+Access the story here: https://norablayre0524-byte.github.io/data_story3.3/index.html
+
 
