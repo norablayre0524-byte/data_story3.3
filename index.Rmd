@@ -17,6 +17,6 @@ github-repo: https://github.com/ericmkeen/bookdown_minimal
 description: "DESCRIPTION yall."
 ---
 
-# test
-Adding some content here as a test.
+# Key Idea
+How does the internet mold your identity?
 
